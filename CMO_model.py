@@ -1,10 +1,7 @@
 # -*- coding: utf-8 -*-
 """
-Created on Mon Jan  4 23:05:39 2021
-
 @author: Maciej Sikora
 """
-
 #! python3
 import numpy_financial as npf 
 import numpy as np
